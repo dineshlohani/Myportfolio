@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/dineshlohani.com.np/static/css/main.1bcc2e8d.css",
-    "main.js": "/dineshlohani.com.np/static/js/main.d9a9279a.js",
-    "static/js/787.43ec53fe.chunk.js": "/dineshlohani.com.np/static/js/787.43ec53fe.chunk.js",
-    "static/media/photo.jpg": "/dineshlohani.com.np/static/media/photo.bc6ecf39dfb5e44e08aa.jpg",
-    "static/media/dinesh.png": "/dineshlohani.com.np/static/media/dinesh.e8e022ede062372da1e3.png",
-    "static/media/graphic.jpg": "/dineshlohani.com.np/static/media/graphic.77805a678601cb0c3e7e.jpg",
-    "static/media/developer.jpg": "/dineshlohani.com.np/static/media/developer.540170e5fb56e33577f5.jpg",
-    "static/media/consulting.jpeg": "/dineshlohani.com.np/static/media/consulting.02b3cdf99ac191ba903d.jpeg",
-    "static/media/sun-photo.jpg": "/dineshlohani.com.np/static/media/sun-photo.c966fce4f37a5b845f79.jpg",
-    "static/media/network.jpg": "/dineshlohani.com.np/static/media/network.d0104e2d63c08e17d5b8.jpg",
-    "static/media/content.webp": "/dineshlohani.com.np/static/media/content.d5516381fa8242f2e687.webp",
-    "static/media/award.png": "/dineshlohani.com.np/static/media/award.a796a64fbb78cc3a9666.png",
-    "static/media/address.png": "/dineshlohani.com.np/static/media/address.a01cb8cc428702f30bec.png",
-    "static/media/email.png": "/dineshlohani.com.np/static/media/email.a49e015815e3ac6d2bd3.png",
-    "static/media/sun.png": "/dineshlohani.com.np/static/media/sun.f794832ad72b90c61eb7.png",
-    "static/media/phone.png": "/dineshlohani.com.np/static/media/phone.d90a6d23cf5129d853bb.png",
-    "static/media/moon.png": "/dineshlohani.com.np/static/media/moon.3bea3d398a25611d421b.png",
-    "index.html": "/dineshlohani.com.np/index.html",
-    "main.1bcc2e8d.css.map": "/dineshlohani.com.np/static/css/main.1bcc2e8d.css.map",
-    "main.d9a9279a.js.map": "/dineshlohani.com.np/static/js/main.d9a9279a.js.map",
-    "787.43ec53fe.chunk.js.map": "/dineshlohani.com.np/static/js/787.43ec53fe.chunk.js.map"
+    "main.css": "/static/css/main.1bcc2e8d.css",
+    "main.js": "/static/js/main.e96e0fa3.js",
+    "static/js/787.43ec53fe.chunk.js": "/static/js/787.43ec53fe.chunk.js",
+    "static/media/photo.jpg": "/static/media/photo.bc6ecf39dfb5e44e08aa.jpg",
+    "static/media/dinesh.png": "/static/media/dinesh.e8e022ede062372da1e3.png",
+    "static/media/graphic.jpg": "/static/media/graphic.77805a678601cb0c3e7e.jpg",
+    "static/media/developer.jpg": "/static/media/developer.540170e5fb56e33577f5.jpg",
+    "static/media/consulting.jpeg": "/static/media/consulting.02b3cdf99ac191ba903d.jpeg",
+    "static/media/sun-photo.jpg": "/static/media/sun-photo.c966fce4f37a5b845f79.jpg",
+    "static/media/network.jpg": "/static/media/network.d0104e2d63c08e17d5b8.jpg",
+    "static/media/content.webp": "/static/media/content.d5516381fa8242f2e687.webp",
+    "static/media/award.png": "/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/index.html",
+    "main.1bcc2e8d.css.map": "/static/css/main.1bcc2e8d.css.map",
+    "main.e96e0fa3.js.map": "/static/js/main.e96e0fa3.js.map",
+    "787.43ec53fe.chunk.js.map": "/static/js/787.43ec53fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bcc2e8d.css",
-    "static/js/main.d9a9279a.js"
+    "static/js/main.e96e0fa3.js"
   ]
 }
